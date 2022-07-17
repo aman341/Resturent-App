@@ -1,0 +1,38 @@
+{
+  "login": [
+    {
+      "name": "Aman",
+      "password": "aman123"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Paan Wala Hotel",
+      "email": "paan@gmail.com",
+      "address": "Bhubneswar",
+      "rating": "4.2",
+      "id": 1
+    },
+    {
+      "name": "Toshali Hotel",
+      "email": "toshali@gmail.com",
+      "address": "kolkata",
+      "rating": "3.7",
+      "id": 2
+    },
+    {
+      "name": "Puri Hotel",
+      "email": "purihotel@gmail.com",
+      "address": "Delhi",
+      "rating": "5.0",
+      "id": 4
+    },
+    {
+      "name": "Hotel 7",
+      "email": "hotel7@gmail.com",
+      "address": "Jaipur",
+      "rating": "4.9",
+      "id": 6
+    }
+  ]
+}
